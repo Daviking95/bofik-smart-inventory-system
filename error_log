@@ -1,0 +1,52 @@
+[10-Jul-2018 06:48:14 Europe/London] PHP Parse error:  syntax error, unexpected 'input' (T_STRING) in /home/zarvil/smartinventory.zarvilla.com/dashboard.php on line 760
+[10-Jul-2018 06:48:20 Europe/London] PHP Parse error:  syntax error, unexpected 'input' (T_STRING) in /home/zarvil/smartinventory.zarvilla.com/dashboard.php on line 760
+[10-Jul-2018 07:28:45 Europe/London] PHP Fatal error:  Cannot redeclare showInTable() (previously declared in /home/zarvil/smartinventory.zarvilla.com/dashboard.php:22) in /home/zarvil/smartinventory.zarvilla.com/dashboard.php on line 692
+[10-Jul-2018 07:30:20 Europe/London] PHP Fatal error:  Cannot redeclare showInTable() (previously declared in /home/zarvil/smartinventory.zarvilla.com/dashboard.php:20) in /home/zarvil/smartinventory.zarvilla.com/dashboard.php on line 688
+[10-Jul-2018 07:30:23 Europe/London] PHP Fatal error:  Cannot redeclare showInTable() (previously declared in /home/zarvil/smartinventory.zarvilla.com/dashboard.php:20) in /home/zarvil/smartinventory.zarvilla.com/dashboard.php on line 688
+[10-Jul-2018 07:31:29 Europe/London] PHP Fatal error:  Call to undefined function showInTable() in /home/zarvil/smartinventory.zarvilla.com/dashboard.php on line 680
+[10-Jul-2018 07:32:06 Europe/London] PHP Fatal error:  Call to undefined function showInTable() in /home/zarvil/smartinventory.zarvilla.com/dashboard.php on line 678
+[10-Jul-2018 07:32:10 Europe/London] PHP Fatal error:  Call to undefined function showInTable() in /home/zarvil/smartinventory.zarvilla.com/dashboard.php on line 678
+[10-Jul-2018 07:32:14 Europe/London] PHP Fatal error:  Call to undefined function showInTable() in /home/zarvil/smartinventory.zarvilla.com/dashboard.php on line 678
+[10-Jul-2018 07:32:29 Europe/London] PHP Fatal error:  Call to undefined function showInTable() in /home/zarvil/smartinventory.zarvilla.com/dashboard.php on line 678
+[10-Jul-2018 07:33:29 Europe/London] PHP Fatal error:  Call to undefined function showInTable() in /home/zarvil/smartinventory.zarvilla.com/dashboard.php on line 677
+[10-Jul-2018 07:34:04 Europe/London] PHP Fatal error:  Call to undefined function showInTable() in /home/zarvil/smartinventory.zarvilla.com/dashboard.php on line 678
+[10-Jul-2018 07:34:24 Europe/London] PHP Fatal error:  Call to undefined function showInTable() in /home/zarvil/smartinventory.zarvilla.com/dashboard.php on line 679
+[10-Jul-2018 07:34:39 Europe/London] PHP Fatal error:  Call to undefined function showInTable() in /home/zarvil/smartinventory.zarvilla.com/dashboard.php on line 679
+[10-Jul-2018 07:35:20 Europe/London] PHP Fatal error:  Call to undefined function showInTable() in /home/zarvil/smartinventory.zarvilla.com/dashboard.php on line 672
+[10-Jul-2018 07:36:25 Europe/London] PHP Fatal error:  Call to undefined function showInTable() in /home/zarvil/smartinventory.zarvilla.com/dashboard.php on line 672
+[10-Jul-2018 07:37:07 Europe/London] PHP Fatal error:  Call to undefined function showInTable() in /home/zarvil/smartinventory.zarvilla.com/dashboard.php on line 671
+[10-Jul-2018 07:37:25 Europe/London] PHP Fatal error:  Call to undefined function showInTable() in /home/zarvil/smartinventory.zarvilla.com/dashboard.php on line 671
+[10-Jul-2018 18:57:20 Europe/London] PHP Fatal error:  Cannot redeclare returnDate() (previously declared in /home/zarvil/smartinventory.zarvilla.com/dashboard.php:692) in /home/zarvil/smartinventory.zarvilla.com/dashboard.php on line 692
+[10-Jul-2018 18:58:01 Europe/London] PHP Fatal error:  Cannot redeclare returnDate() (previously declared in /home/zarvil/smartinventory.zarvilla.com/dashboard.php:692) in /home/zarvil/smartinventory.zarvilla.com/dashboard.php on line 692
+[10-Jul-2018 18:58:26 Europe/London] PHP Fatal error:  Cannot redeclare returnDate() (previously declared in /home/zarvil/smartinventory.zarvilla.com/dashboard.php:692) in /home/zarvil/smartinventory.zarvilla.com/dashboard.php on line 692
+[10-Jul-2018 19:49:20 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'DateTime::__construct(): Failed to parse time string (n j, y) at position 5 (y): Double timezone specification' in /home/zarvil/smartinventory.zarvilla.com/dashboard.php:696
+Stack trace:
+#0 /home/zarvil/smartinventory.zarvilla.com/dashboard.php(696): DateTime->__construct('n j, y')
+#1 {main}
+  thrown in /home/zarvil/smartinventory.zarvilla.com/dashboard.php on line 696
+[15-Jul-2018 04:11:26 UTC] PHP Fatal error:  Call to undefined function push() in /home/zarvil/smartinventory.zarvilla.com/dashboard.php on line 1053
+[15-Jul-2018 04:11:47 UTC] PHP Fatal error:  Call to undefined function push() in /home/zarvil/smartinventory.zarvilla.com/dashboard.php on line 1053
+[15-Jul-2018 04:15:36 UTC] PHP Fatal error:  Call to undefined function push() in /home/zarvil/smartinventory.zarvilla.com/dashboard.php on line 1053
+[15-Jul-2018 05:25:52 Europe/London] PHP Fatal error:  Cannot use [] for reading in /home/zarvil/smartinventory.zarvilla.com/dashboard.php on line 1068
+[15-Jul-2018 05:26:12 Europe/London] PHP Fatal error:  Cannot use [] for reading in /home/zarvil/smartinventory.zarvilla.com/dashboard.php on line 1068
+[15-Jul-2018 22:44:37 UTC] PHP Fatal error:  Cannot redeclare nill() (previously declared in /home/zarvil/smartinventory.zarvilla.com/dashboard.php:1040) in /home/zarvil/smartinventory.zarvilla.com/dashboard.php on line 1040
+[15-Jul-2018 22:44:58 UTC] PHP Fatal error:  Cannot redeclare nill() (previously declared in /home/zarvil/smartinventory.zarvilla.com/dashboard.php:1040) in /home/zarvil/smartinventory.zarvilla.com/dashboard.php on line 1040
+[15-Jul-2018 22:45:08 UTC] PHP Fatal error:  Cannot redeclare nill() (previously declared in /home/zarvil/smartinventory.zarvilla.com/dashboard.php:1040) in /home/zarvil/smartinventory.zarvilla.com/dashboard.php on line 1040
+[16-Jul-2018 00:16:00 Europe/London] PHP Fatal error:  Cannot use [] for reading in /home/zarvil/smartinventory.zarvilla.com/expalert.php on line 35
+[16-Jul-2018 00:16:22 Europe/London] PHP Fatal error:  Cannot use [] for reading in /home/zarvil/smartinventory.zarvilla.com/expalert.php on line 35
+[19-Jul-2018 13:00:32 Europe/London] PHP Fatal error:  Call to undefined function push() in /home/zarvil/smartinventory.zarvilla.com/sample.php on line 15
+[19-Jul-2018 13:00:47 Europe/London] PHP Fatal error:  Call to undefined function push() in /home/zarvil/smartinventory.zarvilla.com/sample.php on line 15
+[19-Jul-2018 13:01:21 Europe/London] PHP Fatal error:  Call to undefined function push() in /home/zarvil/smartinventory.zarvilla.com/sample.php on line 15
+[19-Jul-2018 13:02:13 Europe/London] PHP Fatal error:  Call to undefined function push() in /home/zarvil/smartinventory.zarvilla.com/sample.php on line 15
+[19-Jul-2018 21:00:43 Europe/London] PHP Fatal error:  Call to a member function query() on null in /home/zarvil/smartinventory.zarvilla.com/functions.php on line 108
+[19-Jul-2018 21:06:32 Europe/London] PHP Fatal error:  Call to a member function query() on null in /home/zarvil/smartinventory.zarvilla.com/functions.php on line 108
+[19-Jul-2018 21:26:24 Europe/London] PHP Fatal error:  Call to a member function query() on string in /home/zarvil/smartinventory.zarvilla.com/functions.php on line 110
+[19-Jul-2018 23:01:45 Europe/London] PHP Fatal error:  Call to a member function query() on string in /home/zarvil/smartinventory.zarvilla.com/functions.php on line 141
+[19-Jul-2018 23:02:44 Europe/London] PHP Fatal error:  Call to a member function query() on string in /home/zarvil/smartinventory.zarvilla.com/functions.php on line 141
+[19-Jul-2018 23:07:33 Europe/London] PHP Fatal error:  Call to a member function query() on string in /home/zarvil/smartinventory.zarvilla.com/functions.php on line 141
+[19-Jul-2018 23:12:08 Europe/London] PHP Catchable fatal error:  Object of class stdClass could not be converted to string in /home/zarvil/smartinventory.zarvilla.com/functions.php on line 121
+[20-Jul-2018 01:00:05 Europe/London] PHP Fatal error:  Cannot use [] for reading in /home/zarvil/smartinventory.zarvilla.com/sample.php on line 27
+[20-Jul-2018 01:24:08 Europe/London] PHP Fatal error:  Only variables can be passed by reference in /home/zarvil/smartinventory.zarvilla.com/sample.php on line 14
+[20-Jul-2018 01:25:11 Europe/London] PHP Fatal error:  Only variables can be passed by reference in /home/zarvil/smartinventory.zarvilla.com/sample.php on line 14
+[20-Jul-2018 01:25:35 Europe/London] PHP Fatal error:  Only variables can be passed by reference in /home/zarvil/smartinventory.zarvilla.com/sample.php on line 14
+[20-Jul-2018 02:34:34 Europe/London] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 57587671 bytes) in /home/zarvil/smartinventory.zarvilla.com/sample.php on line 40

@@ -1,0 +1,24 @@
+#main, footer {
+  padding-left: 0px;
+}
+
+header .brand-logo {
+  margin: 1px 0px;
+  padding: 14px 10px;
+}
+
+header .brand-logo img {
+  width: 172px;
+}
+
+.menu-sidebar-collapse {
+  margin: 0 10px 0 18px;
+}
+
+.header-search-wrapper {
+  margin-left: 210px;
+}
+
+.doughnut-chart-status {
+  top: -85px;
+}

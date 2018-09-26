@@ -1,0 +1,6 @@
+
+RewriteEngine on
+RewriteCond %{HTTP_HOST} ^bofik\.com$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.bofik\.com$
+RewriteRule ^/?$ "https\:\/\/bofik\.com\/" [R=302,L]
+

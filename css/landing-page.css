@@ -1,0 +1,27 @@
+#hero-wrapper{
+    position: relative;
+    height: 100vh;
+    overflow:hidden;
+}
+#hero{
+    padding-top: 150px;
+}
+.valign-wrapper {
+    display: -webkit-box;
+    display: -moz-box;
+    display: -ms-flexbox;
+    display: -webkit-flex;
+    display: flex;
+    -webkit-flex-align: center;
+    -ms-flex-align: center;
+    -webkit-align-items: center;
+    align-items: center;
+}
+#features{
+    margin-top:80px;
+}
+#demo{
+    margin-top:80px;
+    padding-top:50px;
+    padding-bottom:50px;
+}

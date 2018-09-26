@@ -1,0 +1,19 @@
+[10-Jul-2018 04:02:28 Europe/London] PHP Catchable fatal error:  Object of class mysqli_result could not be converted to string in /home/zarvil/smartinventory.zarvilla.com/php/register_admin.php on line 109
+[10-Jul-2018 04:02:47 Europe/London] PHP Catchable fatal error:  Object of class mysqli_result could not be converted to string in /home/zarvil/smartinventory.zarvilla.com/php/register_admin.php on line 109
+[12-Jul-2018 01:55:40 Europe/London] PHP Fatal error:  Call to a member function prepare() on null in /home/zarvil/smartinventory.zarvilla.com/php/delete.php on line 13
+[12-Jul-2018 01:57:08 Europe/London] PHP Fatal error:  Call to a member function prepare() on null in /home/zarvil/smartinventory.zarvilla.com/php/delete.php on line 13
+[12-Jul-2018 01:59:29 Europe/London] PHP Fatal error:  Call to a member function prepare() on null in /home/zarvil/smartinventory.zarvilla.com/php/delete.php on line 13
+[14-Jul-2018 21:58:06 Europe/London] PHP Catchable fatal error:  Object of class mysqli_result could not be converted to string in /home/zarvil/smartinventory.zarvilla.com/php/create_inv.php on line 36
+[14-Jul-2018 22:00:05 Europe/London] PHP Catchable fatal error:  Object of class mysqli_result could not be converted to string in /home/zarvil/smartinventory.zarvilla.com/php/create_inv.php on line 36
+[14-Jul-2018 22:02:39 Europe/London] PHP Parse error:  syntax error, unexpected '}' in /home/zarvil/smartinventory.zarvilla.com/php/create_inv.php on line 67
+[14-Jul-2018 22:04:26 Europe/London] PHP Parse error:  syntax error, unexpected '}' in /home/zarvil/smartinventory.zarvilla.com/php/create_inv.php on line 68
+[14-Jul-2018 22:05:10 Europe/London] PHP Parse error:  syntax error, unexpected '}' in /home/zarvil/smartinventory.zarvilla.com/php/create_inv.php on line 69
+[14-Jul-2018 23:25:41 Europe/London] PHP Parse error:  syntax error, unexpected end of file in /home/zarvil/smartinventory.zarvilla.com/php/create_inv.php on line 95
+[15-Jul-2018 00:02:45 Europe/London] PHP Parse error:  syntax error, unexpected '}' in /home/zarvil/smartinventory.zarvilla.com/php/create_inv.php on line 120
+[15-Jul-2018 00:09:17 Europe/London] PHP Fatal error:  Cannot use [] for reading in /home/zarvil/smartinventory.zarvilla.com/php/create_inv.php on line 55
+[21-Jul-2018 08:41:41 Europe/London] PHP Fatal error:  Call to undefined function test_input() in /home/zarvil/smartinventory.zarvilla.com/php/change_password.php on line 8
+[21-Jul-2018 08:58:45 Europe/London] PHP Parse error:  syntax error, unexpected '}' in /home/zarvil/smartinventory.zarvilla.com/php/change_password.php on line 55
+[23-Jul-2018 06:33:46 Europe/London] PHP Fatal error:  Cannot use [] for reading in /home/zarvil/smartinventory.zarvilla.com/php/download_data.php on line 146
+[23-Jul-2018 06:52:39 Europe/London] PHP Fatal error:  Cannot use [] for reading in /home/zarvil/smartinventory.zarvilla.com/php/download_data.php on line 147
+[24-Jul-2018 15:28:04 Europe/London] PHP Parse error:  syntax error, unexpected end of file in /home/zarvil/smartinventory.zarvilla.com/php/edit_inv.php on line 47
+[04-Aug-2018 15:35:32 Europe/London] PHP Fatal error:  Call to undefined function STR_TO_DATE() in /home/zarvil/bofik.com/php/edit_inv.php on line 35
